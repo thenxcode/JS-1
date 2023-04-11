@@ -35,3 +35,11 @@ JavaScript was previously used mainly for making webpages interactive such as fo
 # Condition
 ### Contition *if/else*
 ![if/else](./1.png)
+
+
+### Contition *ternary operator*
+![if/else](./2.png)
+
+
+### Contition *swith statemant*
+![if/else](./3.png)
